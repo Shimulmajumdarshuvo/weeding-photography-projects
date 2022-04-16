@@ -2,43 +2,43 @@
     {
         "id": 1,
         "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
+        "price": "45000",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "img": "https://i.ibb.co/74Mmw1H/eden-project-wedding-photographer-2.jpg"
     },
     {
         "id": 2,
         "name": "WHEEL ALIGNMENT",
-        "price": "100",
+        "price": "50600",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "img": "https://i.ibb.co/wz9ScmR/Weddign2.jpg"
     },
     {
         "id": 3,
         "name": "OIL CHANGING",
-        "price": "150",
+        "price": "15000",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "img": "https://i.ibb.co/s6kPNXh/wedding1.jpg"
     },
     {
         "id": 4,
         "name": "BRAKE REPARING",
-        "price": "180",
+        "price": "185900",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "img": "https://i.ibb.co/Fbkg3fK/eden-project-wedding-photographer-11.jpg"
     },
     {
         "id": 5,
         "name": "WASH AND GLASSING",
-        "price": "100",
+        "price": "956100",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+        "img": "https://i.ibb.co/qdSf1jd/eden-project-wedding-photographer-7.jpg"
     },
     {
         "id": 6,
         "name": "COMPLETE ANALYSIS",
-        "price": "300",
+        "price": "3785300",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+        "img": "https://i.ibb.co/HTj2Y1z/weddign3.jpg"
     }
 ]
