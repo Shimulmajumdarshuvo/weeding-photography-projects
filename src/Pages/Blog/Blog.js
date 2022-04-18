@@ -30,10 +30,18 @@ const Blog = () => {
                         the database directly from client-side code. Data is persisted
                         locally, and even while offline, realtime events continue to
                         fire, giving the end user a responsive experience.
-                        Firebase Authentication provides backend services, easy-to-use SDKs,
-                        and ready-made UI libraries to authenticate users to your app.
-                        It supports authentication using passwords, phone numbers, popular
-                        federated identity providers like Google, Facebook and Twitter, and more.</p>
+                        <ul>
+                            <li>Parse</li>
+                            <li> Back4app</li>
+                            <li> Kinvey</li>
+                            <li>Backendless</li>
+
+                            <li>Pubnub</li>
+                            <li>Kumulos</li>
+                            <li>Game Sparks ect</li>
+                        </ul>
+
+                    </p>
                 </div>
                 <div>
                     <h4>What other services does firebase provide other than authentication ?</h4>
