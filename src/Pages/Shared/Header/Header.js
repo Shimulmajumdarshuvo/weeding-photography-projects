@@ -19,8 +19,11 @@ const Header = () => {
                 <Container>
                     <Navbar.Brand as={Link} to="/">
                         <img height={45} width={100} src={logo} alt="" />
+
                     </Navbar.Brand>
+                    <h2 className='title'>Wedding Photography</h2>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">
                         </Nav>

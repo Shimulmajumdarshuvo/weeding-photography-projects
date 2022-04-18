@@ -25,6 +25,7 @@ const Register = () => {
 
     const handleRegister = event => {
         event.preventDefault();
+        console.log("react");
         const name = event.target.name.value;
         const email = event.target.email.value;
         const password = event.target.password.value;
@@ -41,7 +42,7 @@ const Register = () => {
                 <input type="email" name="email" id="" placeholder='Email Address' required />
 
                 <input type="password" name="password" id="" placeholder='Password' required />
-                <input className='mx-auto btn btn-primary w-50' type="submit w-50 " value="Register" />
+                <input className='mx-auto btn btn-primary w-50' type="submit" value="Register" />
             </form>
             <p>Already have an account? <Link to="/login" className='text-danger pe-auto text-decoration-none' onClick={navigateLogin}>Please Login</Link> </p>
             <SocialLogin></SocialLogin>
