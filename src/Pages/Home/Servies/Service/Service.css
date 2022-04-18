@@ -8,14 +8,22 @@
     background-color: rgb(234, 224, 250);
 }
 
+.service:hover {
+    background-color: white;
+}
+
 .service img {
     width: 250px;
     height: 180px;
 }
 
+.service img:hover {
+    width: 255px;
+}
+
 .btn {
     background-color: rgb(156, 192, 226);
-    color: rgb(82, 8, 47);
+    color: rgb(3, 3, 3);
     border-radius: 5px;
     padding: 8px 10px;
     border: none;
